@@ -1,8 +1,6 @@
 ### Hello, World
 
 I'm Navraj, from India. Currently an Engineering student, learning C++ and Full Stack Web Development.
-### Skills and Experience
-
 
 ### Connect with Me :
 
