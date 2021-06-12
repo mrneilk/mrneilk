@@ -1,5 +1,5 @@
-# ABOUT-ME
+### Hello, World
 
-# <pre> I AM CURRENTLY STUDYING </pre>
-# <pre> learned Basics of cpp(on this date) </pre>
-# <pre> WANT TO EXPLORE UNIVERSAL SET </pre>
+I'm Navraj, from India. Currently an Engineering student, learning C++ and Full Stack Web Development.
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrneilk)](https://github.com/mrneilk/github-readme-stats)
