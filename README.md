@@ -6,7 +6,7 @@ I'm Navraj, from India. Currently an Engineering student, learning C++ and Full 
 
 ### Connect with Me :
 
-[<img align="left" alt="https://www.linkedin.com/in/navraj-khanal-011/" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />]
+<img align="left" alt="https://www.linkedin.com/in/navraj-khanal-011/" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 
 
 ### Languages and Tools:
