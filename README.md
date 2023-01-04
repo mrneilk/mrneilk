@@ -18,7 +18,8 @@ I'm Navraj, from India. Currently an Engineering student, learning C++ and Full 
 <img align="left" alt="Django" width="26px" src="https://static.djangoproject.com/img/logos/django-logo-positive.png" />
 
 <br><br>
-
+<!-- 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrneilk&show_icons=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrneilk)](https://github.com/mrneilk/github-readme-stats)
+ -->
