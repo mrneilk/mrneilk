@@ -1,10 +1,10 @@
 ### Hello, World
 
-I'm Navraj, from India. Currently an Engineering student, learning C++ and Full Stack Web Development.
+I'm Navraj, from India. Currently an Engineering student, Coder, cloud and DevOps Enthusiast
 
 ### Connect with Me :
 
-<a href ="https://www.linkedin.com/in/navraj-khanal-011/"><img align="left" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" /></a>
+<a href ="https://www.linkedin.com/in/navraj-khanal-011/"><img align="left" width="66px" src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" /></a>
 
 <br>
 
