@@ -15,7 +15,7 @@ I'm Navraj, from India. Currently an Engineering student, Coder, cloud and DevOp
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" />
-<img align="left" alt="Django" width="26px" src="https://static.djangoproject.com/img/logos/django-logo-positive.png" />
+<img align="left" alt="Django" width="66px" src="https://static.djangoproject.com/img/logos/django-logo-positive.png" />
 
 <br><br>
 <!-- 
