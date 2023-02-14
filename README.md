@@ -1,4 +1,4 @@
-### ![HelloWorldGIF](https://user-images.githubusercontent.com/66715404/218792635-ea830e59-38a4-4ee5-af16-462e26461778.gif)
+### [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=>+print('Hello+world'))](https://git.io/typing-svg)
 
 ### Navraj Khanal
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Computer+Science+Undergrad;Cloud+and+DevOps+Enthusiast)](https://git.io/typing-svg)
