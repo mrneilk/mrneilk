@@ -5,7 +5,7 @@
 <a href ="https://www.linkedin.com/in/navraj-khanal-011/"><img align="left" width="66px" src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" /></a>
 <br>
 
-This page needs update - for latest updates visit the portfolio site <a href="https://mrneilk.github.io/NavrajKhanal.github.io/"> Portfolio</a>
+### This page needs update - for latest updates visit the portfolio site <a href="https://mrneilk.github.io/NavrajKhanal.github.io/"> Portfolio</a>
 
 ### Languages and Tools:
 [![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=react)](https://github.com/harish-sethuraman/readme-components)
