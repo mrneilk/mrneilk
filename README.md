@@ -1,6 +1,6 @@
 ### [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=>+print('Hello+world'))](https://git.io/typing-svg)
 ### Navraj Khanal
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=IT Guys Cult)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=IT+Guys+Cult)](https://git.io/typing-svg)
 ### Connect with Me :
 <a href ="https://www.linkedin.com/in/navraj-khanal-011/"><img align="left" width="66px" src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" /></a>
 <br>
